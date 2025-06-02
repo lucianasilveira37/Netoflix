@@ -1,5 +1,6 @@
 # 🎬 Catálogo de Filmes com React + TMDB
-src/assets/Captura de tela_2-6-2025_18244_localhost.jpeg
+![Screenshot](./src/assets/Captura%20de%20tela_2-6-2025_18244_localhost.jpeg)
+
 
 
 
