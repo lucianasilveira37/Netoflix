@@ -111,7 +111,10 @@ Editar
 {loading ? <LoadingIndicator /> : <MovieContainer movies={movies} />}
 Sugestão: use bibliotecas como react-loading-indicators ou crie um componente próprio.
 
-33 📸 Capturas de Tela
+## 📸 Capturas de Tela
+
+![Screenshot](./src/assets/Captura%20de%20tela_2-6-2025_182028_localhost.jpeg)
+
 
 
 ## 📚 Créditos
