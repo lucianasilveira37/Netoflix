@@ -1,5 +1,8 @@
 # 🎬 Catálogo de Filmes com React + TMDB
 
+![Uploading image.png…]()
+
+
 Aplicação web moderna para explorar filmes de diversas categorias usando a API do [The Movie Database (TMDB)](https://www.themoviedb.org/). Desenvolvida com **React**, navegação dinâmica, carrossel interativo e layout responsivo.
 
 ---
