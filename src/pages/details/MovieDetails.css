@@ -1,0 +1,130 @@
+/* src/pages/details/MovieDetails.css */
+.movie-details {
+  display: flex;
+  padding: 40px;
+  color: white;
+  background-color: #121212;
+  gap: 40px;
+}
+
+.movie-details img {
+  width: 300px;
+  border-radius: 8px;
+}
+
+.movie-details div {
+  max-width: 600px;
+}
+.trailer-button {
+  background-color: #e50914;
+  color: white;
+  padding: 10px 20px;
+  margin-top: 20px;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.trailer-button:hover {
+  background-color: #b00610;
+}
+.trailer-video {
+  margin-top: 20px;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
+}
+.movie-details {
+  min-height: 100vh;
+  color: white;
+  position: relative;
+}
+.overlay {
+  background: rgba(0, 0, 0, 0.7);
+  min-height: 100vh;
+  padding: 40px;
+  display: flex;
+  gap: 40px;
+  align-items: center;
+}
+.overlay img {
+  max-width: 300px;
+  border-radius: 10px;
+}
+.content {
+  max-width: 700px;
+}
+.back-button {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  background-color: #e50914;
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  font-size: 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  z-index: 10;
+  transition: background-color 0.3s ease;
+}
+
+.back-button:hover {
+  background-color: #b00610;
+}
+.similar-movies {
+  margin-top: 2rem;
+  padding-left: 1rem;
+  color: white;
+}
+
+.similar-list {
+  display: flex;
+  gap: 1rem;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+  padding-bottom: 1rem;
+}
+
+.similar-movie-card {
+  flex: 0 0 auto;
+  scroll-snap-align: start;
+  width: 140px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  color: white;
+  background-color: rgba(0,0,0,0.5);
+  border-radius: 8px;
+  padding: 0.5rem;
+}
+
+.similar-movie-card img {
+  border-radius: 5px;
+  width: 100%;
+  height: auto;
+}
+
+.similar-movie-card p {
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+.ver-mais-btn {
+  margin-top: 0.5rem;
+  padding: 4px 8px;
+  background-color: #ff4500;
+  color: white;
+  border-radius: 4px;
+  font-size: 0.85rem;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+.ver-mais-btn:hover {
+  background-color: #e03e00;
+}

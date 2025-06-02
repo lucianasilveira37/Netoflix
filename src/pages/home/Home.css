@@ -1,0 +1,17 @@
+.loading-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 280vh;
+  gap: 10px;
+  font-size: 1.2rem;
+  color: #e50914;
+}
+
+.loading-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px; /* ou use 100vh para ocupar a tela toda */
+}
