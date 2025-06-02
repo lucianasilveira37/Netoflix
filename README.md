@@ -1,6 +1,6 @@
 # 🎬 Catálogo de Filmes com React + TMDB
 
-![Uploading image.png…]()
+[![Uploading image.png…]()](https://github.com/lucianasilveira37/Netoflix/blob/main/src/assets/Captura%20de%20tela_2-6-2025_18244_localhost.jpeg)
 
 
 
