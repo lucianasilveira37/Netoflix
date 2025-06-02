@@ -175,7 +175,8 @@ Editar
 Use bibliotecas como react-loading-indicators ou componentes próprios.
 
 ##📸 Capturas de Tela
-![Screenshot](./src/assets/Captura_tela_2025-06-02_182028_localhost.jpeg)
+![Screenshot](https://user-images.githubusercontent.com/123456789/abcdefg.jpg)
+
 
 
 ##📚 Créditos
