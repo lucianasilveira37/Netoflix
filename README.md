@@ -175,7 +175,8 @@ Editar
 Use bibliotecas como react-loading-indicators ou componentes próprios.
 
 ##📸 Capturas de Tela
-![Screenshot](https://user-images.githubusercontent.com/123456789/abcdefg.jpg)
+![Screenshot](https://raw.githubusercontent.com/lucianasilveira37/Netoflix/main/src/assets/Captura%20de%20tela_2-6-2025_182028_localhost.jpeg)
+
 
 
 
