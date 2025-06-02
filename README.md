@@ -18,29 +18,7 @@ Aplicação web moderna para explorar filmes de diversas categorias usando a API
 
 ## 📁 Estrutura do Projeto
 
-📦 src/
-├── 📁 components/              # Componentes reutilizáveis
-│   ├── 📄 Header.jsx           # Barra de navegação e categorias
-│   ├── 📄 Header.css           # Estilos do Header
-│   ├── 📄 MovieCard.jsx        # Card individual de filme
-│   ├── 📄 MovieCard.css        # Estilo dos cards
-│   ├── 📄 MovieContainer.jsx   # Lista de filmes (grid/carrossel)
-│   ├── 📄 MovieContainer.css   # Estilos do container
-│
-├── 📁 pages/                   # Páginas principais do app
-│   ├── 📄 Home.jsx             # Página inicial com filmes por categoria
-│   ├── 📄 Home.css             # Estilos da Home
-│   ├── 📄 MovieDetails.jsx     # Página com detalhes e trailer
-│   ├── 📄 MovieDetails.css     # Estilos da MovieDetails
-│
-├── 📄 App.jsx                  # Arquivo de rotas principais (React Router)
-├── 📄 main.jsx                 # Entrada principal do React (ReactDOM.render)
-│
-├── 📁 styles/
-│   └── 📄 global.css           # Estilos globais da aplicação
-│
-└── 📄 .env                     # Token da API TMDB (configuração privada)
-
+![image](https://github.com/user-attachments/assets/f93ae10b-d152-400d-be11-2033033cce37)
 
 ## 🚀 Como Rodar Localmente
 
